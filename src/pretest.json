@@ -1,0 +1,56 @@
+{
+	"version": 2.0,
+	"questions": [
+		{
+			"question": "1. The property of a soil which allows it to be deformed rapidly, without rupture is ____.",
+			"answers": {
+				"a": "Elasticity",
+				"b": "Plasticity",
+				"c": "Tenacity",
+				"d": "None of the above"
+			},
+			"explanations": {
+				"a": "Elastic (reversible) deformation occurs below a certain threshold and returns to the original shape when stress is removed making the deformation only temporary.",
+				"b": "Plasticity is the property of a soil which allows it to be deformed rapidly, without rupture, without elastic rebound and without volume change.",
+				"c": "Tenacity refers to a soil's toughness or resistance to breaking or being deformed. It is the property of the particles or molecules of the soil to resist separation.",
+				"d": "One of the above answers does accurately fit the given description."
+			},
+			"difficulty": "beginner",
+			"correctAnswer": "b"
+		},
+		{
+			"question": "2. The ratio of liquid limit, minus the natural water content to the plasticity index of the soil is ____.",
+			"answers": {
+				"a": "Consistency index",
+				"b": "Plasticity index",
+				"c": "All of the above",
+				"d": "None of the above"
+			},
+			"explanations": {
+				"a": "Liquid limit and plasticity index represent the state of soil that begins to behave like a liquid and as a plastic state respectively. The state between liquid limit and plastic limit represents the firmness of the soil.",
+				"b": "Plasticity index (PI) is the range of water content within which the soil exhibits plastic properties; that is, it is the difference between the liquid and plastic limits.",
+				"c": "The above options represent different quantities and hence both cannot be the answer simultaneously.",
+				"d": "One of the above answers does accurately fit the given description."
+			},
+			"difficulty": "intermediate",
+			"correctAnswer": "a"
+		},
+		{
+			"question": "3. The laboratory test results of a soil sample are given as: Percentage finer than 4.75 mm = 60%, Percentage finer than 0.075 mm = 30%, Liquid Limit = 35%, Plastic Limit = 27%. The soil classification is ____.",
+			"answers": {
+				"a": "GM (Gravel-Silt)",
+				"b": "SM (Silty Sand)",
+				"c": "GC (Clayey Gravel)",
+				"d": "ML-MI (Low Compressible Silt - Intermediate Compressible Silt)"
+			},
+			"explanations": {
+				"a": "It cannot be gravel (G) as less than 50% of the soil should be finer than 4.75 mm sieve for gravel but here we have 60% > 50%.",
+				"b": "Plasticity Index = LL - PL = 8%. Fine grained soils are those having 50% or more pass through 75 sieve (0.075 mm). It is designated as sand (S) if 50% or more pass through 4.75 mm sieve, otherwise it is designated as gravel (G). Since the percentage finer than 4.75 mm is 60%, it is designated as sand (S). Furthermore, the percentage finer than 75 is 30% which is more than 12%. Observe the liquid limit and plasticity index on the plasticity chart. The corresponding point lies below the A- line on the plasticity chart. Hence, it is designated as M or O. Therefore, the soil is classified as SM.",
+				"c": "It cannot be gravel (G) as less than 50% of the soil should be finer than 4.75 mm sieve for gravel but here we have 60% > 50%.",
+				"d": "Plasticity Index = LL - PL = 8%. Fine grained soils are those having 50% or more pass through 75 sieve (0.075 mm). It is designated as sand (S) if 50% or more pass through 4.75 mm sieve, otherwise it is designated as gravel (G). Since the percentage finer than 4.75 mm is 60%, it is designated as sand (S)."
+			},
+			"difficulty": "advanced",
+			"correctAnswer": "b"
+		}
+	]
+}

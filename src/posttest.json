@@ -1,0 +1,39 @@
+{
+	"version": 2.0,
+	"questions": [
+		{
+			"question": "1. The liquid limit (LL), plastic limit (PL) and shrinkage limit (SL) of a cohesive soil satisfy which of the following relations?",
+			"answers": {
+				"a": "LL > PL > SL",
+				"b": "LL > PL < SL",
+				"c": "LL < PL < SL",
+				"d": "LL < PL > SL"
+			},
+			"explanations": {
+				"a": "Liquid limit will have more water content and the state of soil changes from plastic state to liquid state. Similarly, at plastic limit the state of soil changes from semi-solid state to plastic state where there is considerable shear strength and the soil offers considerable resistance to flow. As the water content of a dry soil is increased, the soil state changes from solid state to semi-solid state and this limit is called shrinkage limit. Hence, liquid limit > plastic limit > shrinkage limit.",
+				"b": "The plastic limit cannot be less than the shrinkage limit. At plastic limit the state of soil changes from semi-solid state to plastic state where there is considerable shear strength and the soil offers considerable resistance to flow. As the water content of a dry soil is increased, the soil state changes from solid state to semi-solid state and this limit is called shrinkage limit.",
+				"c": "The plastic limit cannot be less than the shrinkage limit. At plastic limit the state of soil changes from semi-solid state to plastic state where there is considerable shear strength and the soil offers considerable resistance to flow. As the water content of a dry soil is increased, the soil state changes from solid state to semi-solid state and this limit is called shrinkage limit.",
+				"d": "The liquid limit cannot be less than the plastic limit. Liquid limit will have more water content and the state of soil changes from plastic state to liquid state. Similarly, at plastic limit the state of soil changes from semi-solid state to plastic state where there is considerable shear strength and the soil offers considerable resistance to flow. "
+			},
+			"difficulty": "beginner",
+			"correctAnswer": "a"
+		},
+		{
+			"question": "2. The atterberg limits of a clay are: LL = 60%, PL = 45% and SL = 25%. The specific gravity of soil solids is 2.70 and the natural moisture content is 50%. What is its state of consistency in nature?",
+			"answers": {
+				"a": "50% firm clay",
+				"b": "55% clay",
+				"c": "40% hard clay",
+				"d": "66% medium clay"
+			},
+			"explanations": {
+				"a": "This is derived from the plasticity index vs liquid limit graph.",
+				"b": "This is derived from the plasticity index vs liquid limit graph.",
+				"c": "This is derived from the plasticity index vs liquid limit graph.",
+				"d": "This is derived from the plasticity index vs liquid limit graph."
+			},
+			"difficulty": "advanced",
+			"correctAnswer": "d"
+		}
+	]
+}
